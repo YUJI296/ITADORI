@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>صفحتي الأولى</title>
+</head>
+<body style="text-align:center; direction:rtl;">
+    <h1>مرحبًا بكم في صفحتي!</h1>
+    <p>أنا ايتادوري يوجي وهذه أول صفحة HTML لي.</p>
+</body>
+</html>
